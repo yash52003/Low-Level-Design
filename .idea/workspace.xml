@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd8a787b-c5a7-42aa-ba93-64dd50ce71f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LowLevelDesignPrinciple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/Example1Frontend/BetterCode/UserContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/Example1Frontend/BetterCode/UserProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/Example1Frontend/BetterCode/useUserFetcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/Example1Frontend/ProblematicCode/UserProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="dd8a787b-c5a7-42aa-ba93-64dd50ce71f9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
