@@ -21,3 +21,7 @@ public class NotifcationSender {
 
     }
 }
+
+/*
+We should not depend on the concrete classes in order to move forward instead of concreate classes we should depend on the abstractions Whenever we think about the abstractions Ploymorphism comes into the picture - We will have the interface. On that interface we can build multiple concrete classes
+ */

@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd8a787b-c5a7-42aa-ba93-64dd50ce71f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example1/ProblematicCode/NotificationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example1/BetterCode/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example1/BetterCode/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example1/BetterCode/NotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example1/BetterCode/SmsNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example1/BetterCode/WhatsappNotification.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1/TakeHome/SchoolManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/TakeHome/SchoolManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Example1/ProblematicCode/NotifcationSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Example1/ProblematicCode/NotifcationSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Example1/ProblematicCode/NotificationType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Example1/ProblematicCode/NotificationType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
