@@ -23,4 +23,7 @@ public class SchoolManager {
 
 /*
 Does not follows SRP
+Choice of the User - What Kind of Notification does he want
+
+We want a maintainable extensible code
  */
