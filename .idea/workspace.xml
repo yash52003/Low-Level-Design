@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd8a787b-c5a7-42aa-ba93-64dd50ce71f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example1/BetterCode/EmailNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example1/BetterCode/Notification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example1/BetterCode/NotificationSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example1/BetterCode/SmsNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example1/BetterCode/WhatsappNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example2/BetterCode/ProfileViewSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example2/BetterCode/UserProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example2/ProblemmaticCode/Userprofile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example3/BetterCode/GenerateReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example3/BetterCode/PDFReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example3/BetterCode/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example3/BetterCode/WordReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example3/ProblematicCode/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example4/ProblematicCode/DiscountCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Example4/ProblematicCode/VehicleInsuranceEvaluator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/Example1/ProblematicCode/NotifcationSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Example1/ProblematicCode/NotifcationSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/Example1/ProblematicCode/NotificationType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Example1/ProblematicCode/NotificationType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Example1/BetterCode/PushNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Example1/BetterCode/PushNotification.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +46,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\YASH CHOUDHARY\developer\LowLevelDesignPrinciple\src\Lesson1\Example1Frontend\ProblematicCode" />

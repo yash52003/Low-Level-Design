@@ -7,3 +7,7 @@ public class PushNotification implements Notification {
         System.out.println("Sending Push notification");
     }
 }
+
+/*
+If you are following OCP then mostly SRP will also be sorted for us
+ */
