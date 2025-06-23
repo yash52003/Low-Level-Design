@@ -50,4 +50,16 @@ Concreate Classes is a very bad approach to move forward
 - I have no implemetation
 - I don't know how it's implemented
 - In abstraction i dont care how the things are internally implemented (Internal details are hidden [It means we don't care about it])
+
+If we go via the multiple inheritance scenario then the we need to update the service class again -
+Violates the single responsibility principle
+
+Then in java what to do
+keep the instances of the other class in the service class
+but in this case also is the new repository comes then we need to again modify the service class at the moment if we wanted to use only one repsoitory the other repository instances are wasted
+
+what all languages donot support multiple inheritance
+Java , Python, C#, C++, Ruby, Go, Swift, Kotlin, Rust, Dart, PHP, JavaScript
+
+If we use the multiple inheritance in the classes instead of abstraction or interfaces then we need to update the service class again and again and we are not acheiving the abstraction
  */
