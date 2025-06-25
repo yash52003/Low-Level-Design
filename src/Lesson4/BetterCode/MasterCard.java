@@ -1,6 +1,6 @@
-package Lesson4.ProblematicCode;
+package Lesson4.BetterCode;
 
-public class MasterCard extends CreditCard {
+public class MasterCard extends CreditCard implements InternationalPaymentCompatibleCreditCard{
     @Override
     public void tapAndPay() {
         System.out.println("Tap and pay implementation of MasterCard");
@@ -22,12 +22,7 @@ public class MasterCard extends CreditCard {
     };
 
     @Override
-    public void upiPayment() {
-        System.out.println("UPI Payment implementation of MasterCard");
-    }
-
-    @Override
-    public void intlPayment() {
+    public void makeInternationalPayment(){
         System.out.println("International Payment implementation of MasterCard");
     }
 }

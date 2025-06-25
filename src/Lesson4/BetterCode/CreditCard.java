@@ -1,4 +1,4 @@
-package Lesson4.ProblematicCode;
+package Lesson4.BetterCode;
 
 public abstract class CreditCard {
     private String ccNumber;
@@ -23,10 +23,6 @@ public abstract class CreditCard {
     public abstract void swipeAndPay();
 
     public abstract void mandatePayments();
-
-    public abstract void upiPayment();
-
-    public abstract void intlPayment();
 
     public void displayCreditCardDetails(){
         System.out.println("CC Number: " + this.ccNumber + ", with Owner Name: " + this.ownerName);

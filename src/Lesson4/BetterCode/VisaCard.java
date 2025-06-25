@@ -1,6 +1,7 @@
-package Lesson4.ProblematicCode;
+package Lesson4.BetterCode;
 
-public class VisaCard extends CreditCard{
+public class VisaCard extends CreditCard implements
+        InternationalPaymentCompatibleCreditCard, UpiCompatibleCreditCard{
     @Override
     public  void tapAndPay(){
         System.out.println("Tap and pay implementation of VISA");
@@ -22,12 +23,12 @@ public class VisaCard extends CreditCard{
     };
 
     @Override
-    public void upiPayment() {
-        throw new NoSuchMethodException();
+    public void makeUpiPayment() {
+        System.out.println("UPI Payment implementation of VISA");
     }
 
-
-    @public void intlPayment() {
+    @Override
+    public void makeInternationalPayment() {
         System.out.println("International Payment implementation of VISA");
     }
 }

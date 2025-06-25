@@ -1,6 +1,6 @@
-package Lesson4.ProblematicCode;
+package Lesson4.BetterCode;
 
-public class RupayCard extends CreditCard{
+public class RupayCard extends CreditCard implements UpiCompatibleCreditCard{
     @Override
     public  void tapAndPay(){
         System.out.println("Tap and pay implementation of RupayCard");
@@ -21,13 +21,8 @@ public class RupayCard extends CreditCard{
     };
 
     @Override
-    public void upiPayment() {
+    public void makeUpiPayment() {
         System.out.println("UPI Payment implementation of RupayCard");
-    }
-
-    @Override
-    public void intlPayment() {
-        throw new NoSuchMethodException();
     }
 }
 
