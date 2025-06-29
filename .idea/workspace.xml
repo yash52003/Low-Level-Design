@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd8a787b-c5a7-42aa-ba93-64dd50ce71f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/BetterCode/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/BetterCode/InternationalPaymentCompatibleCreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/BetterCode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/BetterCode/MasterCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/BetterCode/RupayCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/BetterCode/UpiCompatibleCreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/BetterCode/VisaCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/ProblematicCode/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson4/ProblematicCode/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/ProblematicCode/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson4/ProblematicCode/MasterCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/ProblematicCode/MasterCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson4/ProblematicCode/RupayCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/ProblematicCode/RupayCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson4/ProblematicCode/VisaCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/ProblematicCode/VisaCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
